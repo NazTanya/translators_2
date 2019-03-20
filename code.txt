@@ -1,0 +1,4 @@
+void main (){
+	do i = 0;
+	return bhïð;
+}

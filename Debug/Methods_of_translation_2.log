@@ -1,0 +1,3 @@
+﻿  Lexical_analys.cpp
+c:\users\таня\source\repos\methods_of_translation_2\methods_of_translation_2\lexical_analys.cpp(190): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  Methods_of_translation_2.vcxproj -> C:\Users\Таня\source\repos\Methods_of_translation_2\Debug\Methods_of_translation_2.exe
